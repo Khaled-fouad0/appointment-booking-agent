@@ -186,7 +186,7 @@ This version is intentionally kept simple for learning and demo purposes:
 | # | Agent | Status |
 |---|---|---|
 | 1 | Voice Sales Agent | ✅ Live |
-| 2 | WhatsApp Sales Agent | 🚧 In progress |
+| 2 | WhatsApp Sales Agent | ✅ Live |
 | 3 | Email Outreach Agent | ✅ Live |
 | 4 | **Appointment Booking Agent** (this repo) | ✅ Live |
 
